@@ -29,7 +29,7 @@ This repository is created to:
 | S.No | Certificate Name                         | Issued By          | Credential ID         | View Link |
 |------|------------------------------------------|---------------------|------------------------|-----------|
 | 1    | Internship Common Aptitude Test (iCAT)   | Internship Studio   | CIT-P-2011238          | [🔗 View](https://drive.google.com/file/d/1zk56lSKPUuW2DQKk900tlnJ0F8O4ohho/view?usp=drive_link) |
-| 2    | *(Add More Here)*                        | *...*               | *...*                  | *...*     |
+| 2    | Web Development Front-End (Internship Participation)                        | 1stop.ai              | cdypBsd6GA                  | [🔗 View](https://drive.google.com/file/d/1K16Jl0FCPHi2korIqJLreD-cZCHGKwt1/view?usp=drive_link)     |
 
 > ✅ Certificates will be added as I continue to grow and complete new milestones.
 
