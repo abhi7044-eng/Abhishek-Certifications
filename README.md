@@ -59,7 +59,7 @@ Grateful to all the platforms and educators who have provided opportunities for 
 
 ### 📬 Contact
 
-📩 Abhishekkumar727783@email.com (replace with your real one)  
+📩 Abhishekkumar727783@email.com   
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abhishekkr704com)
 
 
